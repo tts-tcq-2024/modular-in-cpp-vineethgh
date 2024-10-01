@@ -1,5 +1,3 @@
-#ifndef TELCOCOLORCODER_H
-#define TELCOCOLORCODER_H
 #include <string>
 #include <iostream>
 #include <assert.h>
