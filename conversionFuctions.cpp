@@ -12,6 +12,7 @@ namespace TelCoColorCoder
 	int GetPairNumberFromColor(MajorColor major, MinorColor minor) {
 		return major * numberOfMinorColors + minor + 1;
 	}
+
 	std::list<numberWithPair> generateColorCodingManual() {
 		int pairNumber = 1;
 		std::list<numberWithPair> generatedManual;
