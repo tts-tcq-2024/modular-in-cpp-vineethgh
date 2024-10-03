@@ -1,13 +1,9 @@
 #include "TelCoColorCoder.h"
 
 namespace TelCoColorCoder 
-
 {
-
     const char* MajorColorNames[] = {
-
         "White", "Red", "Black", "Yellow", "Violet"
-
     };
 
     const int numberOfMajorColors = sizeof(MajorColorNames) / sizeof(MajorColorNames[0]);
