@@ -1,5 +1,3 @@
-TelCoColorCoder.h
- 
 #ifndef TELCOCOLORCODER_H
 #define TELCOCOLORCODER_H
  
